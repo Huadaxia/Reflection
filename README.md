@@ -1,2 +1,2 @@
-# Reflection.github.io
-Privacy policy of Reflection
+# 《方寸幻镜》不收集任何用户数据
+
