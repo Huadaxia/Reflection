@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset='utf-8'>
+ <title>隐私政策</title>
+ </head>
+ <body>
+ <h3>隐私政策</h3>
+ <h6>《方寸幻镜》是单机游戏，不搜集任何用户信息。</h6>
+
+ </body>
+</html>
