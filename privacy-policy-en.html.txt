@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset='utf-8'>
+ <title>隐私政策</title>
+ </head>
+ <body>
+ <h3>Privacy Policy</h3>
+ <h5>Reflection does not collect any information through apps or sites that are personally identifiable.</h5>
+
+ </body>
+</html>
